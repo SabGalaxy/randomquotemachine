@@ -2,7 +2,7 @@
     "name": "randomquotemachine",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/SabGalaxy/randomquotemachine.git",
+    "homepage": "https://github.com/SabGalaxy/randomquotemachine",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.25",
         "@fortawesome/free-brands-svg-icons": "^5.11.2",
