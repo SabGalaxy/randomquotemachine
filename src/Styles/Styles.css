@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300i&display=swap');
+body,
+html {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-color: aqua;
+}
+
+
+/* blockquote */
+
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+}
