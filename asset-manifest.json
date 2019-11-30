@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SabGalaxy/randomquotemachine.git/static/css/main.5a0b5173.chunk.css",
-    "main.js": "/SabGalaxy/randomquotemachine.git/static/js/main.d99cb3e7.chunk.js",
-    "main.js.map": "/SabGalaxy/randomquotemachine.git/static/js/main.d99cb3e7.chunk.js.map",
-    "runtime-main.js": "/SabGalaxy/randomquotemachine.git/static/js/runtime-main.4b916de9.js",
-    "runtime-main.js.map": "/SabGalaxy/randomquotemachine.git/static/js/runtime-main.4b916de9.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/SabGalaxy/randomquotemachine.git/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.9a79adc1.chunk.js": "/SabGalaxy/randomquotemachine.git/static/js/2.9a79adc1.chunk.js",
-    "static/js/2.9a79adc1.chunk.js.map": "/SabGalaxy/randomquotemachine.git/static/js/2.9a79adc1.chunk.js.map",
-    "index.html": "/SabGalaxy/randomquotemachine.git/index.html",
-    "precache-manifest.38d2d023185ce78e605c4062206f1d3e.js": "/SabGalaxy/randomquotemachine.git/precache-manifest.38d2d023185ce78e605c4062206f1d3e.js",
-    "service-worker.js": "/SabGalaxy/randomquotemachine.git/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/SabGalaxy/randomquotemachine.git/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.5a0b5173.chunk.css.map": "/SabGalaxy/randomquotemachine.git/static/css/main.5a0b5173.chunk.css.map"
+    "main.css": "/SabGalaxy/randomquotemachine/static/css/main.5a0b5173.chunk.css",
+    "main.js": "/SabGalaxy/randomquotemachine/static/js/main.18d7b528.chunk.js",
+    "main.js.map": "/SabGalaxy/randomquotemachine/static/js/main.18d7b528.chunk.js.map",
+    "runtime-main.js": "/SabGalaxy/randomquotemachine/static/js/runtime-main.5c822872.js",
+    "runtime-main.js.map": "/SabGalaxy/randomquotemachine/static/js/runtime-main.5c822872.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/SabGalaxy/randomquotemachine/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.9a79adc1.chunk.js": "/SabGalaxy/randomquotemachine/static/js/2.9a79adc1.chunk.js",
+    "static/js/2.9a79adc1.chunk.js.map": "/SabGalaxy/randomquotemachine/static/js/2.9a79adc1.chunk.js.map",
+    "index.html": "/SabGalaxy/randomquotemachine/index.html",
+    "precache-manifest.06c3817a4908f02edfd9b54ec46387a0.js": "/SabGalaxy/randomquotemachine/precache-manifest.06c3817a4908f02edfd9b54ec46387a0.js",
+    "service-worker.js": "/SabGalaxy/randomquotemachine/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/SabGalaxy/randomquotemachine/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5a0b5173.chunk.css.map": "/SabGalaxy/randomquotemachine/static/css/main.5a0b5173.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b916de9.js",
+    "static/js/runtime-main.5c822872.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.9a79adc1.chunk.js",
     "static/css/main.5a0b5173.chunk.css",
-    "static/js/main.d99cb3e7.chunk.js"
+    "static/js/main.18d7b528.chunk.js"
   ]
 }
